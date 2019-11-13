@@ -1,2 +1,6 @@
 hiiii git hi
+<<<<<<< HEAD
 a change on client
+=======
+a change on server
+>>>>>>> remotes/origin/master
